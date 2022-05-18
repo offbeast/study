@@ -1,2 +1,8 @@
 git init =to initialise
 git status = list all untracked files
+git add -A = addingg new things from local to stage area
+git commit -m ""=adding new changes from stage area to local repo
+
+(txt file indakkanenkil)
+touch commands.txt
+
